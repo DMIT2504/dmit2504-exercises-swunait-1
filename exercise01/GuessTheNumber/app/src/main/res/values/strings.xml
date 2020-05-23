@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">GuessTheNumber</string>
+    <string name="guess_a_number">Guess a Number</string>
+    <string name="between">between</string>
+    <string name="guess_range">XX and XX</string>
+    <string name="ok">OK</string>
+    <string name="your_last_guess">Your last guess</string>
+    <string name="number_of_guesses">Number of guesses</string>
+    <string name="enter_a_number">enter a number</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="settings">Settings</string>
 </resources>

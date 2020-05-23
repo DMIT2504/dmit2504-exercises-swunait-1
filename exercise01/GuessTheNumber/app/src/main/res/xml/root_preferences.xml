@@ -1,0 +1,20 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="Game Settings">
+        <EditTextPreference
+            android:defaultValue="1"
+            android:key="minimum_value_preference"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Minimmum Guess Number" />
+        <EditTextPreference
+            android:defaultValue="100"
+            android:key="maximum_value_preference"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Maximum Guess Number" />
+    </PreferenceCategory>
+
+
+</PreferenceScreen>
