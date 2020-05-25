@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppLogin</string>
+    <string name="login_page">Login Page</string>
+    <string name="enter_your_username">enter your username</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="nait_website_url">https://www.nait.ca</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="sign_in">Sign In</string>
+    <string name="website">Website</string>
+    <string name="invalid_credentials">Invalid login credentials</string>
+</resources>
